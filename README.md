@@ -1,13 +1,23 @@
-# ENTREGA_GRUPOS
-Participantes:Enrique Pardo,Enrique Estefan, Claudia Lopez y Martina Garcia
+# Entregas-Grupales
+Repositorio colectivo con las tareas del 21 de diciembre
+# Participantes
 
-Ejercicios a realizar:
+Enrique Stefan,Enrique Pardo, Claudia Lopez,Martina Garcia
 
--Dibujo de arbol/escalera
+# Ejercicios propuestos
+Rana
 
--Calificaciones de estudiantes
+Matrices
 
--Suma de matrices
+Calificaciones
 
--Rana
-# sys math random re os
+
+Escalera
+
+# Librerias 
+
+Para el ejercicio de la rana hemos importado las librerias, math , sys,re
+
+# Organizacion 
+
+Cada ejercicio se encuentra en una carpeta del repositorio , en el cual se encuentra a su vez su respectivo main desde el cual se puede ejecutar el codigo
